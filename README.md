@@ -155,5 +155,5 @@ interface SkipData {
 5. **Accessibility First:** Built with inclusivity as a core requirement, not an afterthought
 6. **Business Impact:** Connected technical decisions to measurable business outcomes
 
-This redesign, seeks to demonstrates practicality, a comprehensive appreciation of modern web development practices, user experience principles, and the understanding of business requirements while showcasing proficiency in React/Next.js ecosystem and design thinking.
+This redesign seeks to demonstrates practicality, a comprehensive appreciation of modern web development practices, user experience principles, and the understanding of business requirements while showcasing proficiency in React/Next.js ecosystem and design thinking.
 
